@@ -2,7 +2,7 @@
 Welcome to Tech Twig, a community platform for young software engineers to improve their skills and contribute to the community.
 
 ## Getting Started
-To get started with Tech Twig, please visit our website at https://techtwig.github.io and read community guideline to be a member of Tech Twig. Once you're a member, you'll have access to our community forum, open-source projects, and learning resources.
+To get started with Tech Twig, please visit our website at [techtwig.github.io](https://techtwig.github.io) and read community guideline to be a member of Tech Twig. Once you're a member, you'll have access to our community forum, open-source projects, and learning resources.
 
 ## Pinned Projects
 - Turbo Microservice [Backend](https://github.com/techtwig/turbo-microservice-backend-api-nestjs) [Frontend](https://github.com/techtwig/turbo-microservice-frontend-react)
